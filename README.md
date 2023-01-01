@@ -49,7 +49,3 @@ If your bot has issues downloading a particular track, try again later or check
 for an updated version of the dependency.
 
 # Thank You!
-
-If you have any questions or feedback, please join our community Discord 
-from the Community tab in the top bar. You can also follow us on Twitter, 
-[@Autocode](https://twitter.com/Autocode).
